@@ -1,3 +1,6 @@
+//Autor: Pablo Gonzalez
+//https://github.com/Pabloglezr8/TareaEvaluatoriaTema3.git
+
 // Importar la variable 'date' del archivo 'prompt.js'
 import { date } from "./prompt.js";
 
