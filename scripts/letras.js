@@ -1,3 +1,6 @@
+//Autor: Pablo Gonzalez
+//https://github.com/Pabloglezr8/TareaEvaluatoriaTema3.git
+
 // Importar las variables 'name' y 'surnames' del archivo 'prompt.js'
 import { name, surnames } from "./prompt.js";
 
