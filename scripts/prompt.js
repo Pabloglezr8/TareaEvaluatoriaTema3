@@ -1,3 +1,6 @@
+//Autor: Pablo Gonzalez
+//https://github.com/Pabloglezr8/TareaEvaluatoriaTema3.git
+
 // Declaraciones de variables que almacenarán la información del usuario
 export let name;
 export let surnames;
